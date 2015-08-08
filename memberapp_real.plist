@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://hydapi.by-health.com:8090/dl/ios/MemberApp_Real_latest.ipa</string>
+					<string>http://weixin.4000916916.com/yygjapp/memberapptest.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.by-health.memberapp</string>
+				<string>com.by-health.memberapptest</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
