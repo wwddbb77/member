@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.by-health.memberapp-ios91fix</string>
+				<string>com.by-health.memberapp</string>
 				<key>bundle-version</key>
 				<string>2.0.0.f</string>
 				<key>kind</key>
