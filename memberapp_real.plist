@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://images.4000916916.com/yygjapp/memberapp.ipa</string>
+					<string>https://raw.githubusercontent.com/wwddbb77/member/master/memberapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://images.4000916916.com/yygjapp/logo512.png</string>
+					<string>https://raw.githubusercontent.com/wwddbb77/member/master/logo512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://images.4000916916.com/yygjapp/logo57.png</string>
+					<string>https://raw.githubusercontent.com/wwddbb77/member/master/logo57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
