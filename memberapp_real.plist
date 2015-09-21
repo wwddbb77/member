@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://images.4000916916.com/yygjapp/memberapp.ipa</string>
+					<string>https://raw.githubusercontent.com/wwddbb77/member/master/memberapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.by-health.memberapp-ios9fix</string>
+				<string>com.by-health.memberapp-ios91fix</string>
 				<key>bundle-version</key>
 				<string>2.0.0.f</string>
 				<key>kind</key>
